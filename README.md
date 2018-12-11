@@ -1,10 +1,10 @@
 Exceptional Realty Group Website
 ---
 
-# Description
+#  Description
 
 This is an example site for the intro to Front End Web Development at The Flatiron School
 
-# Contact 
+#  Contact 
 
 Email: m.abbaszaheer@gmail.com
